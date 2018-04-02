@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Recognition"
         mc:Ignorable="d"
-        Title="Распознование" Height="350" Width="410">
+        Title="Распознование" Height="350" Width="410" WindowStartupLocation="CenterScreen" >
     <Grid>
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="200" />
